@@ -1,0 +1,26 @@
+{
+  "name": "i18n-chatgpt",
+  "version": "0.0.1",
+  "description": "module to get the translates files in diferents languages using chatgpt",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ii18n",
+    "locales",
+    "translating"
+  ],
+  "author": "GRRRROW.tech",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "minimist": "^1.2.8",
+    "node-fetch": "^3.3.0",
+    "yargs": "^17.7.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
