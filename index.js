@@ -5,7 +5,6 @@ import fetch from 'node-fetch';
 import minimist from 'minimist'
 import chalk from 'chalk';
 
-//const OPENAI_API_KEY = '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'
 const args = minimist(process.argv.slice(2));
 
 
